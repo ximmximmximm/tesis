@@ -121,7 +121,13 @@ Perteneciente al Ministerio de la Informática y la Comunicación (MIC), desde s
 
   <div class="tab-content" id="Lo mas relevante">
     <h2>Aportaciones mas relevantes</h2>
-    <p>info</p>
+    <p>La programación en la medicina es mucho más que una simple herramienta tecnológica. Se ha convertido en un pilar fundamental en la investigación, el diagnóstico y el tratamiento de enfermedades. Gracias a los avances en la tecnología y la informática, los profesionales de la salud pueden acceder a herramientas y sistemas que mejoran significativamente la atención médica,hoy en día se cuenta con programas comerciales que permiten administrar el consultorio, tanto en términos financieros como de organización de la atención. La potencialidad de estos programas es muy grande y pueden adaptarse, efectivamente, a las necesidades de cada usuario, como dicen sus promotores comerciales.
+
+Los programas informáticos hacen las cosas más fáciles a los pacientes, que pueden, por ejemplo, pedir cita a través de internet o incluso ser evaluados o monitorizados en primera instancia por videoconferencia, evitando desplazamientos innecesarios.
+
+En la actualidad, los avances de la informática en salud incluyen herramientas útiles como dictado de voz (para el historial médico de cada paciente y su inclusión en sistemas digitales de salud de forma eficiente); alertas sobre interacciones con medicamentos, exámenes de laboratorio, recomendación e información en tiempo real sobre la situación de un paciente, especialmente si tiene una condición crónica.
+
+Descubrimiento de fármacos e investigación genómica: En la investigación farmacéutica y la genómica, la programación se utiliza para analizar grandes cantidades de datos genéticos y simular interacciones farmacológicas . Operaciones hospitalarias y gestión de recursos: Los centros sanitarios utilizan la programación para optimizar la asignación de recursos, la programación del personal y el flujo de pacientes</p>
   </div>
 
   <script>
