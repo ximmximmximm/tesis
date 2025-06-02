@@ -77,55 +77,67 @@
 
   <div class="tab-content active" id="Aportaciones">
     <h2>Aportaciones de la programacion al campo medico</h2>
-    <p>
+<ul>
 -Historias Clínicas Electrónicas (HCE):
-Las cuáles permiten almacenar, compartir y acceder a la información médica de los pacientes de manera eficiente y segura
-
+Las HCE permiten almacenar, compartir y acceder a la información médica de los pacientes de forma digital. Esto mejora la continuidad del cuidado, evita la pérdida de información y facilita el acceso rápido y seguro entre diferentes profesionales de la salud, sin depender de registros físicos. También permiten integrar resultados de laboratorios, imágenes médicas y notas clínicas en un solo lugar.
+  
+    </ul>
+    <ul>
 -Bioinformática y Biología Computacional:
-La programación permite el análisis de grandes cantidades de datos genéticos, la simulación de interacciones farmacológicas y el desarrollo de nuevas terapias
-
+Gracias a la programación, es posible analizar grandes cantidades de datos biológicos, como secuencias de ADN y ARN. Esto permite identificar mutaciones genéticas, predecir enfermedades hereditarias, simular interacciones moleculares y diseñar medicamentos personalizados. También se utiliza para mapear redes de interacción celular y entender mecanismos complejos de enfermedades como el cáncer.
+      </ul>
+    <ul>
 -Inteligencia Artificial (IA):
-La IA se utiliza en medicina para el diagnóstico de enfermedades, la predicción de riesgos,etc.
-
+La IA se aplica en medicina para asistir en el diagnóstico temprano de enfermedades mediante el análisis de imágenes médicas (como radiografías o resonancias), predecir riesgos de salud basándose en historiales clínicos, y optimizar tratamientos personalizados. También se usa en chatbots médicos, análisis de lenguaje natural en informes clínicos y sistemas de apoyo a la toma de decisiones clínicas.
+  </ul>
+    <ul>
 -Aplicaciones Móviles de Salud:
-Las aplicaciones móviles permiten a los pacientes acceder a información sobre su salud, monitorear sus signos vitales, recibir recordatorios de medicamentos
-
+Las apps de salud permiten a los usuarios llevar un control de su bienestar diario. Estas pueden medir signos vitales como ritmo cardíaco o niveles de oxígeno, gestionar recordatorios de medicación, consultar historial médico, contactar con profesionales y recibir alertas de emergencia. Son especialmente útiles para el monitoreo de enfermedades crónicas como diabetes o hipertensión.
+    </ul>
+<ul>
 -Diseño y fabricación de prótesis y dispositivos médicos:
-La impresión 3D y la programación permiten el diseño y la fabricación de prótesis personalizadas y dispositivos médicos a medida
-</p>
+Mediante tecnologías como la impresión 3D y la programación asistida por computadora (CAD/CAM), se pueden diseñar prótesis completamente adaptadas a la anatomía del paciente. Esto no solo mejora la funcionalidad y comodidad, sino que reduce costos y tiempos de producción. Además, permite el desarrollo de dispositivos médicos inteligentes, como marcapasos programables o exoesqueletos robóticos para rehabilitación.
+</ul>
+<ul>
+-Telemedicina y sistemas de gestión médica:
+La programación ha sido fundamental para el desarrollo de plataformas tecnológicas que permiten mejorar el acceso a los servicios de salud, especialmente en zonas rurales o de difícil acceso, así como para optimizar la administración interna de clínicas y hospitales
+</ul>
   </div>
 
   <div class="tab-content" id="Aportadores">
     <h2>Aportadores principales</h2>
-    <p>
+    <ul>
 -Donald A.B. Lindberg
 El Dr. Lindberg fue elegido como el primer presidente de la Asociación Americana
 de Informática Médica (AMIA). También es miembro fundador de la Fundación Health on the Net.
-
+</ul>
+    <ul>
 -Edward Shortliffe
 Desarrolló MYCIN, uno de los primeros sistemas expertos en medicina, diseñado para ayudar a
 diagnosticar infecciones bacterianas y recomendar antibióticos
 MYCIN usaba reglas lógicas programadas y fue pionero en el uso de IA en diagnóstico clínico
 Fundador del campo de la informática biomédica.
-
+      </ul>
+    <ul>
 -Peter Szolovits
 Profesor en el MIT, trabajó en sistemas de ayuda al diagnóstico como CADUCEUS.
 Fue pionero en el uso de procesamiento del lenguaje natural (PLN) para interpretar notas 
 médicas escritas por médicos,contribuyó al desarrollo de sistemas de decisión clínica computarizados.
-
+</ul>
+    <ul>
 -Atul Butte
 Es Profesor Distinguido Priscilla Chan y Mark Zuckerberg y Director Inaugural
 del Instituto Bakar de Ciencias de la Salud Computacional (bchsi.ucsf.edu) de la Universidad de California,
 San Francisco (UCSF), también es el Científico de Datos Jefe de todo el Sistema de Salud de la
 Universidad de California, con 20 facultades de medicina, 6 centros médicos y 10 hospitales
-
+</ul>
+    <ul>
 -Carol Friedman
 Es una figura destacada en el campo de la informática biomédica, especialmente reconocida
 por sus contribuciones al procesamiento del lenguaje natural (NLP, por sus siglas en inglés) aplicado
 a la medicina. Sus aportes han sido fundamentales para traducir el lenguaje clínico (como el que se encuentra
 en notas médicas y registros de salud) en información estructurada y útil para sistemas computacionales
-
-</p>
+</ul>
   </div>
 
   <div class="tab-content" id="Lo mas relevante">
@@ -150,6 +162,9 @@ interacciones farmacológicas . Operaciones hospitalarias y gestión de recursos
 utilizan la programación para optimizar la asignación de recursos, la programación del personal y 
 el flujo de pacientes
 </p>
+
+<a href="#Introduccion">Ir a Introduccion</a>
+
   </div>
 
   <script>
