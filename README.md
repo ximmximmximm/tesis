@@ -119,7 +119,7 @@ Se desarrolló un software para la investigación, el Sistema Morfo-Estereológi
 -Las simulaciones para el mejoramiento del proceso de Enseñanza y Aprendizaje se elaboraran con la utilización del programa SIMED (Simulación Médica)
 Software libre cubano que usa otras herramientas libres como APACHE, MySQL y PHP. Considerado de gran relevancia tanto nacional como internacional por Gabriel Perdomo González Doctor en Medicina del Centro de Cibernética Aplicada a la Medicina (CECAM)
 </ul>
-</ul>
+<ul>
 -La Empresa SOFTEL:
 Perteneciente al Ministerio de la Informática y la Comunicación (MIC), desde sus inicios también desarrolló la informática médica, y dentro de esta la rama de Inteligencia Artificial en aplicaciones como INFOTOXI, encargado de controlar y diagnosticar intoxicación por productos tóxicos en centros dedicados a este tema; GERISOFT, para la Atención Primaria de Salud del adulto mayor y el SEAA, Sistema de Ayuda Diagnóstica en la Asistencia Primaria.
 </ul>
@@ -193,9 +193,9 @@ Por otro lado, en las operaciones hospitalarias, la programación desempeña un 
 
 La programación en medicina no es solo una herramienta complementaria, sino una pieza estratégica en la transformación del sistema de salud. Su integración continúa en expansión, y su impacto seguirá creciendo a medida que evolucionen las tecnologías digitales, siempre con el objetivo final de ofrecer una atención médica más humana, accesible, segura y basada en la evidencia.
     </p>
-    <a href="#Intro">Ir a Introduccion</a>
+    
   </div>
-
+<a href="#Intro">Ir a Introduccion</a>
   <script>
     function openTab(tabId, event) {
       // Oculta todas las pestañas
