@@ -77,17 +77,79 @@
 
   <div class="tab-content active" id="Aportaciones">
     <h2>Aportaciones de la programacion al campo medico</h2>
-    <p>info</p>
+    <p>
+-Historias Clínicas Electrónicas (HCE):
+Las cuáles permiten almacenar, compartir y acceder a la información médica de los pacientes de manera eficiente y segura
+
+-Bioinformática y Biología Computacional:
+La programación permite el análisis de grandes cantidades de datos genéticos, la simulación de interacciones farmacológicas y el desarrollo de nuevas terapias
+
+-Inteligencia Artificial (IA):
+La IA se utiliza en medicina para el diagnóstico de enfermedades, la predicción de riesgos,etc.
+
+-Aplicaciones Móviles de Salud:
+Las aplicaciones móviles permiten a los pacientes acceder a información sobre su salud, monitorear sus signos vitales, recibir recordatorios de medicamentos
+
+-Diseño y fabricación de prótesis y dispositivos médicos:
+La impresión 3D y la programación permiten el diseño y la fabricación de prótesis personalizadas y dispositivos médicos a medida
+</p>
   </div>
 
   <div class="tab-content" id="Aportadores">
     <h2>Aportadores principales</h2>
-    <p>info</p>
+    <p>
+-Donald A.B. Lindberg
+El Dr. Lindberg fue elegido como el primer presidente de la Asociación Americana
+de Informática Médica (AMIA). También es miembro fundador de la Fundación Health on the Net.
+
+-Edward Shortliffe
+Desarrolló MYCIN, uno de los primeros sistemas expertos en medicina, diseñado para ayudar a
+diagnosticar infecciones bacterianas y recomendar antibióticos
+MYCIN usaba reglas lógicas programadas y fue pionero en el uso de IA en diagnóstico clínico
+Fundador del campo de la informática biomédica.
+
+-Peter Szolovits
+Profesor en el MIT, trabajó en sistemas de ayuda al diagnóstico como CADUCEUS.
+Fue pionero en el uso de procesamiento del lenguaje natural (PLN) para interpretar notas 
+médicas escritas por médicos,contribuyó al desarrollo de sistemas de decisión clínica computarizados.
+
+-Atul Butte
+Es Profesor Distinguido Priscilla Chan y Mark Zuckerberg y Director Inaugural
+del Instituto Bakar de Ciencias de la Salud Computacional (bchsi.ucsf.edu) de la Universidad de California,
+San Francisco (UCSF), también es el Científico de Datos Jefe de todo el Sistema de Salud de la
+Universidad de California, con 20 facultades de medicina, 6 centros médicos y 10 hospitales
+
+-Carol Friedman
+Es una figura destacada en el campo de la informática biomédica, especialmente reconocida
+por sus contribuciones al procesamiento del lenguaje natural (NLP, por sus siglas en inglés) aplicado
+a la medicina. Sus aportes han sido fundamentales para traducir el lenguaje clínico (como el que se encuentra
+en notas médicas y registros de salud) en información estructurada y útil para sistemas computacionales
+
+</p>
   </div>
 
   <div class="tab-content" id="Lo mas relevante">
-    <h2>Aportaciones mas relevantes</h2>
-    <p>info</p>
+    <h2>AProgramacion Medicinal</h2>
+    <p>
+La programación en la medicina es mucho más que una simple herramienta tecnológica. Se ha convertido
+en un pilar fundamental en la investigación, el diagnóstico y el tratamiento de enfermedades. Gracias
+a los avances en la tecnología y la informática, los profesionales de la salud pueden acceder a
+herramientas y sistemas que mejoran significativamente la atención médica,hoy en día se cuenta con
+programas comerciales que permiten administrar el consultorio, tanto en términos financieros como de
+organización de la atención. La potencialidad de estos programas es muy grande y pueden adaptarse,
+efectivamente, a las necesidades de cada usuario, como dicen sus promotores comerciales. Los programas
+informáticos hacen las cosas más fáciles a los pacientes, que pueden, por ejemplo, pedir cita a través
+de internet o incluso ser evaluados o monitorizados en primera instancia por videoconferencia, evitando
+desplazamientos innecesarios. En la actualidad, los avances de la informática en salud incluyen herramientas
+útiles como dictado de voz (para el historial médico de cada paciente y su inclusión en sistemas digitales
+de salud de forma eficiente); alertas sobre interacciones con medicamentos, exámenes de laboratorio,
+recomendación e información en tiempo real sobre la situación de un paciente, especialmente si tiene
+una condición crónica. Descubrimiento de fármacos e investigación genómica: En la investigación farmacéutica
+y la genómica, la programación se utiliza para analizar grandes cantidades de datos genéticos y simular
+interacciones farmacológicas . Operaciones hospitalarias y gestión de recursos: Los centros sanitarios
+utilizan la programación para optimizar la asignación de recursos, la programación del personal y 
+el flujo de pacientes
+</p>
   </div>
 
   <script>
