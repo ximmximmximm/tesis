@@ -193,9 +193,9 @@ Por otro lado, en las operaciones hospitalarias, la programación desempeña un 
 
 La programación en medicina no es solo una herramienta complementaria, sino una pieza estratégica en la transformación del sistema de salud. Su integración continúa en expansión, y su impacto seguirá creciendo a medida que evolucionen las tecnologías digitales, siempre con el objetivo final de ofrecer una atención médica más humana, accesible, segura y basada en la evidencia.
     </p>
-    
+    <a href="#Intro">Ir a Introduccion</a>
   </div>
-<a href="#Intro">Ir a Introduccion</a>
+
   <script>
     function openTab(tabId, event) {
       // Oculta todas las pestañas
