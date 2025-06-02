@@ -193,7 +193,7 @@ La programación en medicina no es solo una herramienta complementaria, sino una
     
 </p>
   </div>
-
+<a href="#Intro">Ir a Introduccion</a>
   <script>
     function openTab(tabId, event) {
       // Oculta todas las pestañas
