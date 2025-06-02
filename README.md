@@ -82,7 +82,6 @@
 <ul>
 -Historias Clínicas Electrónicas (HCE):
 Las HCE permiten almacenar, compartir y acceder a la información médica de los pacientes de forma digital. Esto mejora la continuidad del cuidado, evita la pérdida de información y facilita el acceso rápido y seguro entre diferentes profesionales de la salud, sin depender de registros físicos. También permiten integrar resultados de laboratorios, imágenes médicas y notas clínicas en un solo lugar.
-  
     </ul>
     <ul>
 -Bioinformática y Biología Computacional:
