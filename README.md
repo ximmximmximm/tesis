@@ -82,7 +82,7 @@
 
   <div class="tab-content" id="Aportadores">
     <h2>Aportadores principales</h2>
-    <p></p>
+    <p>info</p>
   </div>
 
   <div class="tab-content" id="Lo mas relevante">
