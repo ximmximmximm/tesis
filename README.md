@@ -213,7 +213,7 @@ Pérdida de confianza en el sistema de salud, ya que los pacientes podrían most
 Tambien una de las principales advercidades que enfrento la programacion medicinal fue la falta de interoperabilidad entre diferentes sistemas de salud. Muchos hospitales y clínicas utilizan plataformas incompatibles entre sí, lo que dificulta la integración de datos y el funcionamiento fluido de herramientas programadas. La ausencia de estándares universales para el intercambio de información médica (como HL7 o FHIR) provoca redundancias, pérdida de datos y errores de interpretación.
     </p>
   </div>
-    <a href="#Intro.html">Ir a Introduccion</a>
+    <a href="Intro.html">Ir a Introduccion</a>
   <script>
     function openTab(tabId, event) {
       // Oculta todas las pestañas
