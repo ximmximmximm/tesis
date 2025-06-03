@@ -70,14 +70,47 @@
 <body>
 
   <div class="tab-container">
-    <button class="tab-button active" onclick="openTab('Aportaciones', event)">Aportaciones</button>
+    <button class="tab-button active" onclick="openTab('Fin', event)">Introduccion</button>
+    <button class="tab-button" onclick="openTab('Aportaciones', event)">Aportaciones</button>
     <button class="tab-button" onclick="openTab('Aportadores', event)">Aportadores</button>
     <button class="tab-button" onclick="openTab('Lo mas relevante', event)">Lo mas relevante</button>
     <button class="tab-button" onclick="openTab('Desafios y Obstaculos', event)">Desafios y Obstaculos</button>
-    <button class="tab-button" onclick="openTab('Fin', event)">Conclusion</button>
+
   </div>
 
-  <div class="tab-content active" id="Aportaciones">
+<div class="tab-content" id="Fin">
+    <h2>Breve Introduccion y Conclusion</h2>
+<p>
+Breve introducción sobre la programación y la medicina:
+La programación informática constituye una disciplina fundamental en el desarrollo de soluciones tecnológicas,
+al permitir la creación de algoritmos y estructuras lógicas que instruyen a las computadoras para ejecutar
+tareas específicas. Mediante lenguajes de programación como Python, Java, R, C++, entre otros, es posible
+diseñar sistemas capaces de procesar grandes volúmenes de datos, automatizar procesos complejos y generar
+modelos predictivos que mejoran la eficiencia en múltiples ámbitos. Paralelamente, la medicina se consolida
+como una ciencia y un arte orientado a la preservación, promoción y recuperación de la salud humana, a
+través del estudio, prevención, diagnóstico y tratamiento de enfermedades.
+
+En las últimas décadas, la convergencia entre programación y medicina ha dado lugar a un nuevo paradigma
+en la atención sanitaria, caracterizado por el uso intensivo de tecnologías digitales. La programación ha
+pasado de ser una herramienta auxiliar a convertirse en un componente estructural de la medicina moderna,
+permitiendo el desarrollo de aplicaciones clínicas, plataformas de telemedicina, sistemas de historia 
+clínica electrónica, dispositivos médicos inteligentes, algoritmos de inteligencia artificial (IA) aplicados
+al diagnóstico, así como modelos de análisis de datos a gran escala en el ámbito epidemiológico y genómico.
+
+  <h3>
+    CONCLUSION:
+  </h3>
+  <p>
+    En conclusión, la programación se presenta como un pilar clave en el desarrollo de una medicina más avanzada,
+    personalizada y eficiente. Su correcta aplicación y regulación determinarán en gran medida el rumbo de la salud
+    digital en los próximos años, por lo que es imprescindible seguir fomentando la investigación interdisciplinaria,
+    la formación técnica del personal médico y el desarrollo ético de nuevas soluciones tecnológicas.
+  </p>
+</p>
+
+  </div>
+
+  <div class="tab-content" id="Aportaciones">
     <h2>Aportaciones de la programacion al campo medico</h2>
     <ul>
 -Historias Clínicas Electrónicas (HCE):
@@ -215,37 +248,7 @@ Tambien una de las principales advercidades que enfrento la programacion medicin
     </p>
   </div>
 
-<div class="tab-content" id="Fin">
-    <h2>Breve Introduccion y Conclusion</h2>
-<p>
-Breve introducción sobre la programación y la medicina:
-La programación informática constituye una disciplina fundamental en el desarrollo de soluciones tecnológicas,
-al permitir la creación de algoritmos y estructuras lógicas que instruyen a las computadoras para ejecutar
-tareas específicas. Mediante lenguajes de programación como Python, Java, R, C++, entre otros, es posible
-diseñar sistemas capaces de procesar grandes volúmenes de datos, automatizar procesos complejos y generar
-modelos predictivos que mejoran la eficiencia en múltiples ámbitos. Paralelamente, la medicina se consolida
-como una ciencia y un arte orientado a la preservación, promoción y recuperación de la salud humana, a
-través del estudio, prevención, diagnóstico y tratamiento de enfermedades.
 
-En las últimas décadas, la convergencia entre programación y medicina ha dado lugar a un nuevo paradigma
-en la atención sanitaria, caracterizado por el uso intensivo de tecnologías digitales. La programación ha
-pasado de ser una herramienta auxiliar a convertirse en un componente estructural de la medicina moderna,
-permitiendo el desarrollo de aplicaciones clínicas, plataformas de telemedicina, sistemas de historia 
-clínica electrónica, dispositivos médicos inteligentes, algoritmos de inteligencia artificial (IA) aplicados
-al diagnóstico, así como modelos de análisis de datos a gran escala en el ámbito epidemiológico y genómico.
-
-  <h3>
-    CONCLUSION:
-  </h3>
-  <p>
-    En conclusión, la programación se presenta como un pilar clave en el desarrollo de una medicina más avanzada,
-    personalizada y eficiente. Su correcta aplicación y regulación determinarán en gran medida el rumbo de la salud
-    digital en los próximos años, por lo que es imprescindible seguir fomentando la investigación interdisciplinaria,
-    la formación técnica del personal médico y el desarrollo ético de nuevas soluciones tecnológicas.
-  </p>
-</p>
-
-  </div>
 
   <script>
     function openTab(tabId, event) {
