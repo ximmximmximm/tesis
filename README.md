@@ -197,10 +197,23 @@ La programación en medicina no es solo una herramienta complementaria, sino una
   <div class="tab-content active" id="Desafios y Obstaculos">
     <h2>Desafíos y Consideraciones Éticas</h2>
     <p>
-      
+      A medida que los sistemas tecnológicos adquieren mayor capacidad para procesar información clínica, existe la posibilidad de que los médicos comiencen a depender excesivamente de estos instrumentos, reduciendo su juicio clínico a una función secundaria. Este fenómeno, conocido como “automatización del criterio”, puede debilitar la toma de decisiones médicas informadas si los profesionales no conservan una actitud crítica hacia las recomendaciones generadas por algoritmos. En algunos casos, se ha observado que el personal médico acepta los resultados computacionales sin verificarlos o sin considerar el contexto clínico particular del paciente, lo que puede llevar a errores significativos en el tratamiento.
+
+Tambien los programas que asisten en diagnósticos o decisiones clínicas deben ser extremadamente precisos. Un error de programación o un sesgo en los datos puede conducir a diagnósticos incorrectos.Lo cual ocasionaria conducir a diagnósticos erróneos, retrasos en el 
+tratamiento o incluso a intervenciones médicas inapropiadas.
+
+Los sistemas médicos modernos, como los historiales clínicos electrónicos (EHR), recopilan grandes volúmenes de datos personales sensibles, incluyendo antecedentes médicos, diagnósticos, tratamientos, resultados de laboratorio e incluso información genética. El uso de programación para analizar, almacenar o compartir esta información exige la implementación de estrictos estándares de seguridad informática, ya que una vulnerabilidad en el código o una mala gestión de los datos puede tener graves consecuencias.
+
+Cuando no se aplican medidas adecuadas de protección —como cifrado, control de acceso, autenticación segura o auditorías constantes—, se abre la posibilidad a incidentes como:
+Filtraciones de datos personales, que pueden ser utilizados de forma indebida por terceros, afectando la privacidad y la dignidad de los pacientes.
+Robo de identidad médica, en el cual delincuentes utilizan datos clínicos para obtener tratamientos o fármacos de manera fraudulenta.
+Extorsiones o chantajes, especialmente cuando se trata de enfermedades delicadas o estigmatizadas, cuya divulgación no autorizada puede afectar gravemente la vida personal y laboral de los pacientes.
+Pérdida de confianza en el sistema de salud, ya que los pacientes podrían mostrarse reacios a compartir información relevante si perciben que no será tratada con el debido resguardo.
+
+Tambien una de las principales advercidades que enfrento la programacion medicinal fue la falta de interoperabilidad entre diferentes sistemas de salud. Muchos hospitales y clínicas utilizan plataformas incompatibles entre sí, lo que dificulta la integración de datos y el funcionamiento fluido de herramientas programadas. La ausencia de estándares universales para el intercambio de información médica (como HL7 o FHIR) provoca redundancias, pérdida de datos y errores de interpretación.
     </p>
   </div>
-    <a href="Intro.html">Ir a Introduccion</a>
+    <a href="#Intro.html">Ir a Introduccion</a>
   <script>
     function openTab(tabId, event) {
       // Oculta todas las pestañas
