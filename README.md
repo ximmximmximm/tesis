@@ -216,7 +216,7 @@ Tambien una de las principales advercidades que enfrento la programacion medicin
   </div>
 
 <div class="tab-content" id="Fin">
-    <h2>Conclusion</h2>
+    <h2>Breve Introduccion y Conclusion</h2>
 <p>
 Breve introducción sobre la programación y la medicina:
 La programación informática constituye una disciplina fundamental en el desarrollo de soluciones tecnológicas,
