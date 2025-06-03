@@ -73,6 +73,7 @@
     <button class="tab-button active" onclick="openTab('Aportaciones', event)">Aportaciones</button>
     <button class="tab-button" onclick="openTab('Aportadores', event)">Aportadores</button>
     <button class="tab-button" onclick="openTab('Lo mas relevante', event)">Lo mas relevante</button>
+    <button class="tab-button" onclick="openTab('Desafios y Obstaculos', event)">Desafios y Obstaculos</button>
   </div>
 
   <div class="tab-content active" id="Aportaciones">
@@ -193,7 +194,13 @@ La programación en medicina no es solo una herramienta complementaria, sino una
     
 </p>
   </div>
-<a href="#Intro.html">Ir a Introduccion</a>
+  <div class="tab-content active" id="Desafios y Obstaculos">
+    <h2>Desafíos y Consideraciones Éticas</h2>
+    <p>
+      
+    </p>
+  </div>
+    <a href="#Intro.html">Ir a Introduccion</a>
   <script>
     function openTab(tabId, event) {
       // Oculta todas las pestañas
