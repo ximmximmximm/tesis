@@ -194,7 +194,7 @@ La programación en medicina no es solo una herramienta complementaria, sino una
     
 </p>
   </div>
-  <div class="tab-content active" id="Desafios y Obstaculos">
+  <div class="tab-content" id="Desafios y Obstaculos">
     <h2>Desafíos y Consideraciones Éticas</h2>
     <p>
       A medida que los sistemas tecnológicos adquieren mayor capacidad para procesar información clínica, existe la posibilidad de que los médicos comiencen a depender excesivamente de estos instrumentos, reduciendo su juicio clínico a una función secundaria. Este fenómeno, conocido como “automatización del criterio”, puede debilitar la toma de decisiones médicas informadas si los profesionales no conservan una actitud crítica hacia las recomendaciones generadas por algoritmos. En algunos casos, se ha observado que el personal médico acepta los resultados computacionales sin verificarlos o sin considerar el contexto clínico particular del paciente, lo que puede llevar a errores significativos en el tratamiento.
@@ -213,7 +213,7 @@ Pérdida de confianza en el sistema de salud, ya que los pacientes podrían most
 Tambien una de las principales advercidades que enfrento la programacion medicinal fue la falta de interoperabilidad entre diferentes sistemas de salud. Muchos hospitales y clínicas utilizan plataformas incompatibles entre sí, lo que dificulta la integración de datos y el funcionamiento fluido de herramientas programadas. La ausencia de estándares universales para el intercambio de información médica (como HL7 o FHIR) provoca redundancias, pérdida de datos y errores de interpretación.
     </p>
   </div>
-    <a href="Intro.html">Ir a Introduccion</a>
+
   <script>
     function openTab(tabId, event) {
       // Oculta todas las pestañas
