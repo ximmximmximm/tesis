@@ -73,6 +73,7 @@
     <button class="tab-button active" onclick="openTab('Aportaciones', event)">Aportaciones</button>
     <button class="tab-button" onclick="openTab('Aportadores', event)">Aportadores</button>
     <button class="tab-button" onclick="openTab('Lo mas relevante', event)">Lo mas relevante</button>
+    <button class="tab-button" onclick="openTab('Fin', event)">Conclusion</button>
   </div>
 
   <div class="tab-content active" id="Aportaciones">
@@ -179,7 +180,7 @@ este se volvía fluorescente al ser expuesto al tubo catódico, lo cual denomino
   </div>
 
   <div class="tab-content" id="Lo mas relevante">
-    <h2>AProgramacion Medicinal</h2>
+    <h2>Programacion Medicinal</h2>
 
     <p>
 La programación en la medicina es mucho más que una simple herramienta tecnológica; se ha consolidado como un pilar fundamental en la investigación, el diagnóstico, el tratamiento y la gestión eficiente de los servicios de salud. Con el avance acelerado de la tecnología y la informática médica, los profesionales sanitarios disponen hoy de herramientas potentes que les permiten tomar decisiones más informadas, brindar una atención más precisa y mejorar de forma notable la calidad de vida de los pacientes.
@@ -204,6 +205,12 @@ Los sistemas médicos modernos, como los historiales clínicos electrónicos (EH
 Cuando no se aplican medidas adecuadas de protección —como cifrado, control de acceso, autenticación segura o auditorías constantes—, se abre la posibilidad a incidentes como: Filtraciones de datos personales, que pueden ser utilizados de forma indebida por terceros, afectando la privacidad y la dignidad de los pacientes. Robo de identidad médica, en el cual delincuentes utilizan datos clínicos para obtener tratamientos o fármacos de manera fraudulenta. Extorsiones o chantajes, especialmente cuando se trata de enfermedades delicadas o estigmatizadas, cuya divulgación no autorizada puede afectar gravemente la vida personal y laboral de los pacientes. Pérdida de confianza en el sistema de salud, ya que los pacientes podrían mostrarse reacios a compartir información relevante si perciben que no será tratada con el debido resguardo.
 
 Tambien una de las principales advercidades que enfrento la programacion medicinal fue la falta de interoperabilidad entre diferentes sistemas de salud. Muchos hospitales y clínicas utilizan plataformas incompatibles entre sí, lo que dificulta la integración de datos y el funcionamiento fluido de herramientas programadas. La ausencia de estándares universales para el intercambio de información médica (como HL7 o FHIR) provoca redundancias, pérdida de datos y errores de interpretación.
+</p>
+
+  <div class="tab-content" id="Fin">
+    <h2>Conclusion</h2>
+<p>
+
 </p>
 
   </div>
