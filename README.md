@@ -78,7 +78,7 @@
 
   </div>
 
-<div class="tab-content" id="Fin">
+<div class="tab-content active" id="Fin">
     <h2>Breve Introduccion y Conclusion</h2>
 <p>
 Breve introducción sobre la programación y la medicina:
