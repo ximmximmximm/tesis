@@ -74,7 +74,7 @@
     <button class="tab-button" onclick="openTab('Aportadores', event)">Aportadores</button>
     <button class="tab-button" onclick="openTab('Lo mas relevante', event)">Lo mas relevante</button>
     <button class="tab-button" onclick="openTab('Desafios y Obstaculos', event)">Desafios y Obstaculos</button>
-    <button class="tab-button" onclick="openTab('Fin', event)">Conclucion</button>
+    <button class="tab-button" onclick="openTab('Fin', event)">Conclusion</button>
   </div>
 
   <div class="tab-content active" id="Aportaciones">
@@ -235,7 +235,7 @@ clínica electrónica, dispositivos médicos inteligentes, algoritmos de intelig
 al diagnóstico, así como modelos de análisis de datos a gran escala en el ámbito epidemiológico y genómico.
 
   <h3>
-    CONCLUCION:
+    CONCLUSION:
   </h3>
   <p>
     En conclusión, la programación se presenta como un pilar clave en el desarrollo de una medicina más avanzada,
