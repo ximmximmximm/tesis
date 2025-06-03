@@ -74,6 +74,7 @@
     <button class="tab-button" onclick="openTab('Aportadores', event)">Aportadores</button>
     <button class="tab-button" onclick="openTab('Lo mas relevante', event)">Lo mas relevante</button>
     <button class="tab-button" onclick="openTab('Desafios y Obstaculos', event)">Desafios y Obstaculos</button>
+    <button class="tab-button" onclick="openTab('Fin', event)">Conclucion</button>
   </div>
 
   <div class="tab-content active" id="Aportaciones">
