@@ -267,6 +267,26 @@ Tambien una de las principales advercidades que enfrento la programacion medicin
       event.currentTarget.classList.add('active');
     }
   </script>
+  <div style="padding: 20px; text-align: center; background-color: #fff; margin: 40px 20px; border-top: 2px solid #ccc;">
+  <h3>¿Esta página fue de ayuda para ti?</h3>
+  <button onclick="registrarRespuesta('Sí')" style="padding: 10px 20px; margin: 5px;">👍 Sí</button>
+  <button onclick="registrarRespuesta('No')" style="padding: 10px 20px; margin: 5px;">👎 No</button>
+  <p id="mensajeEncuesta" style="margin-top: 15px; font-weight: bold; color: green;"></p>
+</div>
 
+<script>
+  function registrarRespuesta(respuesta) {
+    let registros = JSON.parse(localStorage.getItem("encuesta_respuestas")) || [];
+
+    registros.push({
+      respuesta: respuesta,
+      fecha: new Date().toISOString()
+    });
+
+    localStorage.setItem("encuesta_respuestas", JSON.stringify(registros));
+
+    document.getElementById("mensajeEncuesta").innerText = "¡Gracias por tu respuesta!";
+  }
+</script>
 </body>
 </html>
