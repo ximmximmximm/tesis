@@ -269,8 +269,8 @@ Tambien una de las principales advercidades que enfrento la programacion medicin
   </script>
   <div style="padding: 20px; text-align: center; background-color: #fff; margin: 40px 20px; border-top: 2px solid #ccc;">
   <h3>¿Esta página fue de ayuda para ti?</h3>
-  <button onclick="registrarRespuesta('Sí')" style="padding: 10px 20px; margin: 5px;">👍 Sí</button>
-  <button onclick="registrarRespuesta('No')" style="padding: 10px 20px; margin: 5px;">👎 No</button>
+  <button onclick="registrarRespuesta('Sí')" style="padding: 10px 20px; margin: 5px;"> Sí</button>
+  <button onclick="registrarRespuesta('No')" style="padding: 10px 20px; margin: 5px;"> No</button>
   <p id="mensajeEncuesta" style="margin-top: 15px; font-weight: bold; color: green;"></p>
 </div>
 
